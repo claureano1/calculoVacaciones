@@ -1,2 +1,2 @@
 # calculoVacaciones
-![class-diagram](https://user-images.githubusercontent.com/26491137/184459063-2672750d-f92a-4be2-a630-11a03f7f217b.png)
+![class-diagram (1)](https://user-images.githubusercontent.com/26491137/184459617-fa54fdb4-ac93-4685-87a1-4e625e56f0da.png)
